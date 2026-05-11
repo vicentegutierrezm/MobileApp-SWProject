@@ -1,0 +1,1 @@
+// esta es la página principal de los tabs, renderiza cada tab y su contenido
