@@ -1,1 +1,1 @@
-// este es la página principal de la aplicación
+// este es la página de enrutamiento principal

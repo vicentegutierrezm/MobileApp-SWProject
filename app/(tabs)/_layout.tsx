@@ -1,1 +1,1 @@
-// esta es la página principal de los tabs, renderiza cada tab y su contenido
+// esta es la página de enrutamiento de los tabs, renderiza cada tab y su contenido

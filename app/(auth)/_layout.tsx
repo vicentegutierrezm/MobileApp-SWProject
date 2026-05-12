@@ -1,1 +1,1 @@
-// esta es la página principal del login y el registro, renderiza cada uno dependiendo de la ruta
+// esta es la página de enrutamiento del login y el registro
