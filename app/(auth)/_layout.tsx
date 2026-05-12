@@ -1,1 +1,0 @@
-// esta es la página de enrutamiento del login y el registro
